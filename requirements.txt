@@ -1,0 +1,11 @@
+click 
+colorama 
+dlib 
+face-recognition 
+face-recognition-models 
+numpy 
+opencv-python
+opencv-python-headless
+pillow
+setuptools
+wheel
