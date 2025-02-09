@@ -9,3 +9,10 @@ opencv-python-headless
 pillow
 setuptools
 wheel
+tensorflow 
+keras
+pandas
+jupyter
+notebook 
+tqdm
+opencv-contrib-python
